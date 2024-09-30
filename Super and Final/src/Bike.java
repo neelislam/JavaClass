@@ -5,6 +5,7 @@ class Bike {
         System.out.println("Thok Thok!");
     }
     void eat() {
+        System.out.println("This is ParentClass!");
         System.out.println("Bike drinks Petrol");
     }
 }

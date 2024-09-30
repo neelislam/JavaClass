@@ -3,7 +3,7 @@
 class Hornet extends Bike {
 
     void eat() {
-
+        System.out.println("This is Child class: ");
         super.eat();
         System.out.println("Bike drinks Octane");
     }
