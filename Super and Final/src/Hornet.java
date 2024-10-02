@@ -8,7 +8,11 @@ class Hornet extends Bike {
         System.out.println("Bike drinks Octane");
     }
     // final declared so it cant be used
-    /* void sound(){
+
+     void sound(){
         System.out.println("Vroom Vroom");
-    } */
+         int cc =  180;
+         System.out.println("CC : " + cc);
+    }
+
 }

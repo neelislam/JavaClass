@@ -1,4 +1,4 @@
-public class Calculate {
+public class Calculate extends Bap{
     String name;
 
     static int cube(int x){
@@ -16,5 +16,9 @@ public class Calculate {
         System.out.println("Ami Methor");
         this.name = name;
     }
+
+
+
+
 
 }
