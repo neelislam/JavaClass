@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Discord class/Discord class.iml" filepath="$PROJECT_DIR$/Discord class/Discord class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heirivclr/Heirivclr.iml" filepath="$PROJECT_DIR$/Heirivclr/Heirivclr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incapsulation/Incapsulation.iml" filepath="$PROJECT_DIR$/Incapsulation/Incapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Class.iml" filepath="$PROJECT_DIR$/.idea/Java Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multilevel/Multilevel.iml" filepath="$PROJECT_DIR$/Multilevel/Multilevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Study/Static Study.iml" filepath="$PROJECT_DIR$/Static Study/Static Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Super and Final/Super and Final.iml" filepath="$PROJECT_DIR$/Super and Final/Super and Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
