@@ -3,19 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction_Java/Abstraction_Java.iml" filepath="$PROJECT_DIR$/Abstraction_Java/Abstraction_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest 2/Contest 2.iml" filepath="$PROJECT_DIR$/Contest 2/Contest 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Discord class/Discord class.iml" filepath="$PROJECT_DIR$/Discord class/Discord class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash set/Hash set.iml" filepath="$PROJECT_DIR$/Hash set/Hash set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hierarchical/Hierarchical.iml" filepath="$PROJECT_DIR$/Hierarchical/Hierarchical.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incapsulation/Incapsulation.iml" filepath="$PROJECT_DIR$/Incapsulation/Incapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Class.iml" filepath="$PROJECT_DIR$/.idea/Java Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multilevel/Multilevel.iml" filepath="$PROJECT_DIR$/Multilevel/Multilevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner function Input funtion/Scanner function Input funtion.iml" filepath="$PROJECT_DIR$/Scanner function Input funtion/Scanner function Input funtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Study/Static Study.iml" filepath="$PROJECT_DIR$/Static Study/Static Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Super and Final/Super and Final.iml" filepath="$PROJECT_DIR$/Super and Final/Super and Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryCatch/tryCatch.iml" filepath="$PROJECT_DIR$/tryCatch/tryCatch.iml" />
     </modules>
   </component>
 </project>

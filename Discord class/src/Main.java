@@ -1,14 +1,43 @@
-// Java Program for Copy Constructor
 import java.io.*;
 class GFG {
 
     public static void main(String[] args)
     {
-       Bike b = new Bike();
-       System.out.println(b);
-       Bike b2 =  new Bike("NS160");
-       System.out.println(b2);
+
+int j;
+ for(int i = 5; i>1; i--){
+     for( j = 1; j < i ; j++){
+         System.out.print("  ");
+     }
+     for(int k = 6; k >i; k--){
+         System.out.print("* ");
+     }
+     for(int t = 5; t >i; t--){
+         System.out.print("* ");
+     }
+     System.out.println();
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }
 }
+
