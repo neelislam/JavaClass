@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction_Java/Abstraction_Java.iml" filepath="$PROJECT_DIR$/Abstraction_Java/Abstraction_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Breadth first search/Breadth first search.iml" filepath="$PROJECT_DIR$/Breadth first search/Breadth first search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest 2/Contest 2.iml" filepath="$PROJECT_DIR$/Contest 2/Contest 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Discord class/Discord class.iml" filepath="$PROJECT_DIR$/Discord class/Discord class.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Multilevel/Multilevel.iml" filepath="$PROJECT_DIR$/Multilevel/Multilevel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner function Input funtion/Scanner function Input funtion.iml" filepath="$PROJECT_DIR$/Scanner function Input funtion/Scanner function Input funtion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
